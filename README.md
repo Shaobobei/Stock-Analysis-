@@ -6,7 +6,7 @@
 
 ## Results
 
-#### these are the returns for 2017 and 2018 for under my orginal code, it took about 4 to 10 seconds for the code to perform the each analysis 
+#### These are the returns for 2017 and 2018 for under my orginal code, it took about 4 to 10 seconds for the code to perform each of the analysis 
 ![2017](VBA_Challenge_2017.png)
 
 ![2018](VBA_Challenge_2018.png)
