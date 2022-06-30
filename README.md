@@ -1,17 +1,18 @@
 # Stock Analysis
 
-## Performing a Stock analysis for Steve and his parents to help them decide which stock is the best option for them to invest in 
+### Performing a Stock analysis for Steve and his parents to help them decide which stock is the best option for them to invest in 
 
-### Steve might want to know the yearly return for multiple stocks for multiple years later on. He wants to know how fast the VBA code will compile the results and how fast it takes for the code to execute and output in the code that was created
+#### Steve might want to know the yearly return for multiple stocks for multiple years later on. He wants to know how fast the VBA code will compile the results and how fast it takes for the code to execute and output in the code that was created
 
 ## Results
 
-### these are the returns for 2017 and 2018 for under my orginal code, it took about 4 to 10 seconds for the code to perform the analysis 
+#### these are the returns for 2017 and 2018 for under my orginal code, it took about 4 to 10 seconds for the code to perform the each analysis 
 ![2017](VBA_Challenge_2017.png)
 
 ![2018](VBA_Challenge_2018.png)
 
-### after refractoring my code, it took less than a second for the system to perform the analysis for both of the years and result the yearly return is the same
+#### After refractoring my code, it took less than a second for the system to perform the analysis for both of the years and result the yearly returns are the same
+
 ![2017RE](VBA_Challenge_2017_RE.png)
 
 
