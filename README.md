@@ -4,6 +4,16 @@
 
 ### Steve might want to know the yearly return for multiple stocks for multiple years later on. He wants to know how fast the VBA code will compile the results and how fast it takes for the code to execute and output in the code that was created
 
+## Results
+
+![2017](VBA_Challenge_2017.png)
+
+![2017RE](VBA_Challenge_2017_RE.png)
+
+![2018](VBA_Challenge_2018.png)
+
+![2018RE](VBA_Challenge_2018_RE.png)
+
 
 # Overall
 VBA is a very helpful tool when it comes to performing what would had been very long manual and sometime very tedious tasks in excel, VBA codes can program the system to automate these tasks more accurately and much faster than a human could. Refactoring the code in excel can sometime even make the code and the program perform better. VBA sounds great it if the users are careful, it is very powerful; but it can be very dangerous. If the macro is enabled, hackers can abuse the system and rewrite the codes for malicious intense, like viruses and trojan horses. So all party would have to enable the Marco for anyone to edit the code. Also, Microsoft is always upgrading Excel so the codes might not work properly with older versions or with a future version of Excel.
