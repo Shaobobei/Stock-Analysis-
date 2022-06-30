@@ -6,11 +6,14 @@
 
 ## Results
 
+### these are the returns for 2017 and 2018 for under my orginal code, it took about 4 to 10 seconds for the code to perform the analysis 
 ![2017](VBA_Challenge_2017.png)
 
+![2018](VBA_Challenge_2018.png)
+
+### after refractoring my code, it took less than a second for the system to perform the analysis for both of the years and result the yearly return is the same
 ![2017RE](VBA_Challenge_2017_RE.png)
 
-![2018](VBA_Challenge_2018.png)
 
 ![2018RE](VBA_Challenge_2018_RE.png)
 
